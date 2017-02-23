@@ -9,15 +9,15 @@
 - **Make a component `App.js`**
 <br><br>
 ![](http://g.recordit.co/qNKMCllAjz.gif)
-***
+<br>
 - **render the component `index.js`**
 <br><br>
 ![](http://g.recordit.co/XfEcUzTP6b.gif)
-***
+<br>
 - **Use `lightup` cmd to start the app**
 <br><br>
 ![](http://g.recordit.co/ZinY1kQgpN.gif)
-***
+<br>
 
 ## Why to use lightup?
 
@@ -41,7 +41,7 @@ or use npm 😄
 
 ## Status
 
-Currently the tool is equipped with a basic  development server. Although the main objective of the tool is to start the app and not focusing on generating or preparing for the production build (for such use cases which involves building a large app with React, [create-react-app]() is the best fit) but I think I'm gonna make some minimal updates for generating the bundle (totally optional but I think it fills the gap).
+Currently the tool is equipped with a basic  development server. Although the main objective of the tool is to start the app and not focusing on generating or preparing for the production build (for such use cases which involves building a large app with React, [create-react-app](https://github.com/facebookincubator/create-react-app) is the best fit) but I think I'm gonna make some minimal updates for generating the bundle (totally optional but I think it fills the gap).
 
 ## Contributing
 
