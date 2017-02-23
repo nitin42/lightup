@@ -7,17 +7,17 @@
 ## How?
 
 - **Make a component `App.js`**
-<br/>
+<br><br>
 ![](http://g.recordit.co/qNKMCllAjz.gif)
----
+***
 - **render the component `index.js`**
-<br/>
+<br><br>
 ![](http://g.recordit.co/XfEcUzTP6b.gif)
----
+***
 - **Use `lightup` cmd to start the app**
-<br/>
+<br><br>
 ![](http://g.recordit.co/ZinY1kQgpN.gif)
----
+***
 
 ## Why to use lightup?
 
