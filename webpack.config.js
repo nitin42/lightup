@@ -132,7 +132,7 @@ module.exports = (env, src_file) => {
 	else {
 		
 		initialConfig["entry"].unshift(path.resolve(src_file));
-		
+
 		return merge(initialConfig, developmentConfig);
 	}
 }
