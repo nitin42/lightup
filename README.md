@@ -6,15 +6,15 @@
 
 ## How?
 
-- **Make a component `App.js`**
+- **Make a component** `App.js`
 <br><br>
 ![](http://g.recordit.co/qNKMCllAjz.gif)
 <br>
-- **render the component `index.js`**
+- **render the component** `index.js`
 <br><br>
 ![](http://g.recordit.co/XfEcUzTP6b.gif)
 <br>
-- **Use `lightup` cmd to start the app**
+- **Use** `lightup` **cmd to start the app**
 <br><br>
 ![](http://g.recordit.co/ZinY1kQgpN.gif)
 <br>
