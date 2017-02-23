@@ -16,7 +16,7 @@
 <br>
 - **Use** `lightup` **cmd to start the app**
 <br><br>
-![](http://g.recordit.co/ZinY1kQgpN.gif)
+![](http://g.recordit.co/4oYuzUcibp.gif)
 <br>
 
 ## Why to use lightup?
