@@ -8,7 +8,7 @@
 
 - **Make a component** `App.js`
 <br><br>
-![](http://g.recordit.co/0EUytCyjlw.gif)
+![](http://g.recordit.co/mp7tEIKsVD.gif)
 <br>
 - **render the component** `index.js`
 <br><br>
